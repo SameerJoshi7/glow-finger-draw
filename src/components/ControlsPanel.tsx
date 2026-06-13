@@ -221,10 +221,10 @@ export const ControlsPanel: React.FC<ControlsPanelProps> = ({
         <div className="flex items-center gap-2">
           <div className="flex flex-col">
             <h1 className="font-display font-black text-xs text-white leading-none tracking-widest flex items-center gap-1">
-              GLOW <Sparkles className="w-3.5 h-3.5 text-neon-cyan animate-pulse" />
+              GLOWDRAW <Sparkles className="w-3.5 h-3.5 text-neon-cyan animate-pulse" />
             </h1>
-            <span className="text-[8px] text-slate-400 font-display tracking-widest uppercase">
-              PAINT AIR
+            <span className="text-[8px] text-neon-purple font-display font-bold tracking-widest uppercase">
+              BY SAMEER
             </span>
           </div>
           <button

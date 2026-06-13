@@ -33,9 +33,12 @@ export const Onboarding: React.FC<OnboardingProps> = ({
               <Sparkles className="w-8 h-8 text-neon-cyan" />
             </div>
             <h2 className="font-display font-black text-2xl md:text-3xl text-white tracking-widest uppercase">
-              GLOW FINGER DRAW
+              GLOWDRAW
             </h2>
-            <p className="text-slate-400 text-sm mt-1 tracking-wide">
+            <p className="text-neon-cyan text-[10px] font-display font-bold tracking-widest uppercase mt-1">
+              DESIGNED & BUILT BY SAMEER
+            </p>
+            <p className="text-slate-400 text-sm mt-3 tracking-wide">
               Paint with light in the air using your webcam
             </p>
           </div>
